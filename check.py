@@ -1,5 +1,6 @@
 # v 1.4
 #--------------------------------
+import numpy as np
 from csv import reader
 from array import array
 from shapely.geometry import Polygon
